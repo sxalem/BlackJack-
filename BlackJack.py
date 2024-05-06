@@ -150,6 +150,3 @@ class BlackJackGame:
             self.determine_winner()
 
         print("\nThanks for playing!")
-
-game = BlackJackGame()
-game.play()
