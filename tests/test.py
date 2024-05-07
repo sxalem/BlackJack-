@@ -2,6 +2,7 @@ from blackjack_project.deck import Card, Deck, Hand
 from blackjack_project.game import BlackJackGame
 
 
+
 def test_card():
     card = Card("hearts", {"rank": "A", "value": 11})
     assert card.suit == "hearts", "Expected suit to be 'hearts'"
