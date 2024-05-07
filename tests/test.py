@@ -1,5 +1,5 @@
-from blackjack.deck import Card, Deck, Hand
-from blackjack.game import BlackJackGame
+from blackjack_project.deck import Card, Deck, Hand
+from blackjack_project.game import BlackJackGame
 
 
 def test_card():
