@@ -1,4 +1,4 @@
-from blackjack.deck import Deck, Hand
+from blackjack_project.deck import Deck, Hand
 
 
 class BlackJackGame:
